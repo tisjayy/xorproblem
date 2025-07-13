@@ -3,7 +3,7 @@ This project implements a simple neural network **from scratch using NumPy** to 
 
 ---
 
-## 🧠 What is the XOR Problem?
+## What is the XOR Problem?
 
 The XOR (exclusive OR) logic gate outputs true (1) **only when the inputs differ**:
 
@@ -18,7 +18,7 @@ This problem **cannot be solved by a simple linear model**, making it a great ca
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 - **Architecture**: 2 input neurons → 1 hidden layer (2 neurons, sigmoid) → 1 output neuron (sigmoid)
 - **Forward Pass**: Calculates predictions based on current weights.
